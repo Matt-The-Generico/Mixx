@@ -1,7 +1,7 @@
 # Mixx
 **Todo mundo tem voz.**
 
-**`mixx.framer.website`**
+**https://mixx.framer.website**
 
 Apoie o criador do Mixx com um Pix!
-**`livepix.gg/mattthegenerico`**
+**https://livepix.gg/mattthegenerico**
